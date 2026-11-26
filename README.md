@@ -1,16 +1,16 @@
-## Hi there 👋
+# Halo, saya Ahmad 👋
 
-<!--
-**Diah7/Diah7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Sistem Informasi yang percaya bahwa **belajar adalah cara terbaik untuk tumbuh**.
 
-Here are some ideas to get you started:
+## 🎯 Tentang Saya
+Saya senang mengubah data dan proses yang berantakan menjadi sistem yang rapi dan mudah dipakai. Saat ini saya fokus membangun dasar yang kuat di bidang sistem informasi, dimulai dari spreadsheet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skill
+- **Microsoft Excel**: rumus, validasi data, tabel dan laporan otomatis
+
+## 📂 Proyek
+- **Template Pencatatan Stok**: sistem pencatatan stok barang berbasis Excel, lengkap dengan peringatan stok menipis dan laporan sederhana. *
+
+## 🌱 Sedang Dipelajari
+- Pengelolaan data dan database
+- Analisis dan perancangan sistem
